@@ -1,0 +1,25 @@
+programming
+variables
+functions
+objects
+classes
+inheritance
+polymorphism
+encapsulation
+templates
+STL
+pointers
+operators
+data types
+loops
+conditionals
+templates
+iostream
+headers
+libraries
+compilers
+syntax
+debugging
+memory management
+reference
+recursion
